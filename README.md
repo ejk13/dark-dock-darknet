@@ -73,4 +73,6 @@ Store your mnemonic code securely for account recovery in a separate, offline lo
 
 <a href="http://jodsc7kug54j4a3sxh26aec2aeqxmo4kyaz4xv2oosytzyesg3uagvyd.onion"><img src="/logos/margin.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update:  11 June 2025 updated cors  
+
+
+Update:  26 June
