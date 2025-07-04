@@ -75,4 +75,6 @@ Store your mnemonic code securely for account recovery in a separate, offline lo
 
 
 
-Update:  26 June
+
+
+Update:  07/04/2025 Resolved dead links in architecture documentation
