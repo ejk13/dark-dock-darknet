@@ -79,4 +79,6 @@ Store your mnemonic code securely for account recovery in a separate, offline lo
 
 
 
-Update:  07.07.2025 12:09:27 The link is operational once more.
+
+
+Update: Fixed broken url, now live and functioning
