@@ -85,4 +85,6 @@ Store your mnemonic code securely for account recovery in a separate, offline lo
 
 
 
-Update: Link is now accessible and functioning
+
+
+Update:  24 July link is live and functioning
